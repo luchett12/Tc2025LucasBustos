@@ -12,8 +12,7 @@ Bustos Lucas
 Técnicas de Compilación
 
 **Profesor:**  
-[Nombre del profesor]
-
+Ameri, fransisco
 **Fecha:**  
 17/07/2025
 
